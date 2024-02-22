@@ -1,0 +1,31 @@
+
+[
+    {"idx":1, "titulo":"Alfajorcitos", "descripcion":"El precio es por unidad","precio": 500, "imagen":"/imagenes/alfajorcitos.jpg", "categoria":"dulces", "stock": 100}, 
+    {"idx":2, "titulo":"Bizcochos", "descripcion":"El precio es por media docena","precio": 400,"imagen":"/imagenes/biscochos.jpg", "categoria":"salados", "stock": 100},
+    {"idx":3, "titulo":"Bombas", "descripcion":"El precio es por unidad","precio": 650,"imagen":"/imagenes/bombas.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":4, "titulo":"Brownies","descripcion":"El precio es por unidad", "precio": 500,"imagen":"/imagenes/brownies.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":5, "titulo":"Alfajor Lupino","descripcion":"El precio es por unidad", "precio": 600,"imagen":"/imagenes/alfajoresLupino.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":6, "titulo":"Alfajores Grandes","descripcion":"El precio es por unidad", "precio": 700, "imagen":"/imagenes/alfajores.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":7, "titulo":"Archocs","descripcion":"El precio es por unidad", "precio": 250,"imagen":"/imagenes/archocs.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":8, "titulo":"Bombas de cafe","descripcion":"El precio es por 3 unidades", "precio": 450,"imagen":"/imagenes/bombasCafe.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":9, "titulo":"Galletitas bañadas", "descripcion":"El precio es por 3 unidades","precio": 1500, "imagen":"/imagenes/gallesChocoBañadas.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":10, "titulo":"Budin relleno", "descripcion":"El precio es por unidad","precio": 500,"imagen":"/imagenes/budinRellenoRicota.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":11, "titulo":"Budin de limon", "descripcion":"El precio es por unidad","precio": 650,"imagen":"/imagenes/budinLimon.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":12, "titulo":"Buñuelos","descripcion":"El precio es por media docena", "precio": 600,"imagen":"/imagenes/buñuelos.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":13, "titulo":"Budin de banana","descripcion":"El precio es por unidad", "precio": 600,"imagen":"/imagenes/budinBanana.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":14, "titulo":"Budin de pan","descripcion":"El precio es por unidad", "precio": 700, "imagen":"/imagenes/budinDePan.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":15, "titulo":"Budin de naranja","descripcion":"El precio es por unidad", "precio": 750,"imagen":"/imagenes/budinNaranja.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":16, "titulo":"Budin de arroz", "descripcion":"El precio es por unidad","precio": 600, "imagen":"/imagenes/budinNaranjaArroz.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":17, "titulo":"Carasucias","descripcion":"El precio es por unidad", "precio": 250,"imagen":"/imagenes/carasucias.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":18, "titulo":"Chipacitos","descripcion":"El precio es por media docena", "precio": 550,"imagen":"/imagenes/chipacitos.jpg", "categoria":"salados", "stock": 100},
+    {"idx":19, "titulo":"Galletitas con chips", "descripcion":"El precio es por 6 unidades","precio": 1500, "imagen":"/imagenes/gallesChocochip.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":20, "titulo":"Galletitas de limon", "descripcion":"El precio es por 4 unidades","precio": 500,"imagen":"/imagenes/limonitas.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":21, "titulo":"Madalenas", "descripcion":"El precio es por unidad","precio": 250,"imagen":"/imagenes/madalenas.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":22, "titulo":"Mbju pizza","descripcion":"El precio es por unidad", "precio": 1600,"imagen":"/imagenes/mbjuPizza.jpg", "categoria":"salados", "stock": 100},
+    {"idx":23, "titulo":"Medialunas","descripcion":"El precio es por unidad", "precio": 200,"imagen":"/imagenes/Medialunas.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":24, "titulo":"Pan de miga","descripcion":"El precio es por unidad", "precio": 700, "imagen":"/imagenes/panMiga.jpg", "categoria":"salados", "stock": 100},
+    {"idx":25, "titulo":"Torta de cumple","descripcion":"El precio es por unidad", "precio": 4000,"imagen":"/imagenes/tortaCumple.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":26, "titulo":"Rogel","descripcion":"El precio es por unidad", "precio": 3700, "imagen":"/imagenes/rogel.jpg", "categoria":"dulces", "stock": 100},
+    {"idx":27, "titulo":"Tarta de anana","descripcion":"El precio es por unidad", "precio": 3800, "imagen":"/imagenes/tartaAnana.jpg", "categoria":"dulces", "stock": 100}
+]
+ 

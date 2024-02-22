@@ -1,0 +1,131 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  overflow-x: hidden;
+  font-family: 'IM Fell English', serif;
+}
+.header {
+  padding: 10%;
+  background: radial-gradient(circle, rgba(63,251,161,1) 0%, rgba(252,70,107,1) 100%);
+}
+.main {
+  padding: 20%;
+  color: rgba(234, 103, 103, 0.705);
+}
+.mx-auto {
+  display: block;
+  width: 600px;
+  text-align: center;
+  margin-top: 3%;
+}
+.button{
+  margin-bottom: 4%;
+  margin-left: 45%;
+  border: none;
+  background-color: aquamarine;
+  border-radius: 20%;
+  font-size: x-large;
+}
+.footer {
+padding: 10%;
+color: rgb(88, 87, 87);
+background: radial-gradient(circle, rgba(63,251,161,1) 0%, rgba(252,70,107,1) 100%);
+padding-left: 30%;
+}
+.logo{
+  border-radius: 50%;
+  margin-left: 40%;
+}
+.logoPeque{
+  border-radius: 50%;
+}
+.offcanvas{
+  color: rgb(88, 87, 87);
+  background-color: rgba(234, 103, 103, 0.705);
+}
+.navbar-toggler{
+  color: rgb(88, 87, 87);
+  background-color: rgba(234, 103, 103, 0.705);
+}
+.container-fluid{
+  background-color: white;
+}
+.cartw{
+  display: flex;
+  flex-direction: row;
+  color:rgba(234, 103, 103, 0.705);
+  margin-top: 2%;
+  font-size: x-large;
+}
+.inicio{
+  text-align: center;
+  margin-top: 6%;
+}
+.li{
+  font-size: larger;
+}
+.nav-link{
+  color:rgb(88, 87, 87); 
+}
+.nav-item{
+  color:rgb(88, 87, 87);
+}
+.container{
+  margin: 8%;
+  text-align: center;
+}
+.btn{
+  background-color: aliceblue;
+  border-color: aliceblue;
+}
+.btn:hover{
+  background-color: rgba(243, 158, 158, 0.221);
+  border-color: aliceblue;
+}
+.badge{
+  color: brown;
+}
+.redes{
+  padding: 2%;
+  margin-right: 40%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.carousel-inner{
+  display: flex;
+  flex-direction: row;
+}
+.pedidoF{
+  margin-left: 18%;
+}
+@media screen and (max-width:600px) {
+ .header{
+  padding-top: 15%;
+  align-self: center;
+ }
+ .logo{
+  margin-left: 20%;
+ }
+ .pedidoF{
+  margin-right: 40%;
+ }
+ .redes{
+  margin-right: 30%;
+ }
+ .footerText{
+  text-align: center;
+  margin-right: 30%;
+ }
+}
+.hide {
+  display: none;
+}
+.show{
+  display:block;
+}
+.columna{
+  margin-top: 1%;
+}
